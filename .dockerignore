@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .dockerignore
 *.md
-dockerfile
+Dockerfile
